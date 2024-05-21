@@ -1,3 +1,3 @@
-<div>
-    <livewire:menu class="fixed"/>
-</div>
+<header class="h-52">
+    <livewire:menu/>
+</header>
